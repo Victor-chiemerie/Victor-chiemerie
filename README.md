@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=xrichardroidx.xrichardroidx">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Victor-chiemerie.Victor-chiemerie">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋;I+am+Victor🙂;A+Software+Engineer!👨‍💻;Nice+to+meet+you+👌+💯&center=true&size=30">
@@ -10,14 +10,13 @@
 <h2 align="center">Languages | Tools | Skills</h2>
 <br>
 <p align="center">
-<!--  <code><img title="C" height="25" src="images/c.svg"></code> -->
+  <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="Flutter" height="25" src="images/flutter.png"></code>
   <code><img title="Dart" height="25" src="images/dart.png"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Node.JS" height="25" src="images/nodejs.png"></code>
-<!--  <code><img title="Python" height="25" src="images/python-original.svg"></code> -->
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
