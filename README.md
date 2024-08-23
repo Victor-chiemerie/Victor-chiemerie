@@ -1,93 +1,43 @@
-### Hi there 👋
+[![MasterHead](https://i.pinimg.com/originals/6f/2b/1a/6f2b1a25100fbde63c611561317a6ef2.gif)](https://rishavchanda.io)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Victor-chiemerie.Victor-chiemerie">
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋;I+am+Victor🙂;A+Software+Engineer!👨‍💻;Nice+to+meet+you+👌+💯&center=true&size=30">
-  </a>
-</h1>
-<hr>
-<h2 align="center">Languages | Tools | Skills</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Flutter" height="25" src="images/flutter.png"></code>
-  <code><img title="Dart" height="25" src="images/dart.png"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Node.JS" height="25" src="images/nodejs.png"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="Firebase" height="25" src="images/firebase.png"></code>
-</p>
-<hr>
-<p align="center">
-  Hi, I'm Victor, A Software Engineer
-  <br>
-  <br>
-  🔬 I'm currently studying at <a href="https://www.microverse.org/">MicroverseInc</a>
-  <br>
-  📚 I’m currently Building and learning how to secure websites and crossplatform mobile applications against threats.
-  <br>
-  💻 I love to write lowlevel codes closer to the hardware, and enjoy writing codes for Microcontrollers.
-  <br>
-  👨‍💻 I'm currently working on 2 awesome personal projects, <a href="https://github.com/XRichardroidX/Flappy_Bird_Game">Poultry Farm Manager, </a>and <a href="https://github.com/XRichardroidX/MCE">Mechatronics department school app, </a>
-  <br>
-  💬 Feel free to ask me any question <a href="https://github.com/XRichardroidX/XRichardroidX/issues" title="Issues">Here</a>
-  <br>victorchiemerie02@gmal.com</a>
+<h1 align="center">Hi 👋, I'm Nwadinigwe Victor Chiemerie</h1>
+<h3 align="center">A Software Engineer with love for C/C++ and JavaScript, I'm always glad to help anyone in need of development, currently looking for new opportunities.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif​">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=victor-chiemerie&label=Profile%20views&color=0e75b6&style=flat" alt="victor-chiemerie" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victor-chiemerie" alt="victor-chiemerie" /></a> </p>
+
+- 🔭 I’m currently working on [My Portfolio](https://github.com/Victor-chiemerie/Bobby-Portfolio)
+
+- 🌱 I’m currently learning **Bloc State Management in Flutter**
+
+- 👯 I’m looking to collaborate on [FECA fellowship App](https://github.com/Victor-chiemerie/feca)
+
+- 🤝 I’m looking for help with [Flutter Chat App](https://github.com/Victor-chiemerie/newChat)
+
+- 👨‍💻 All of my projects are available at [https://victor-chiemerie.github.io/Porfolio/](https://victor-chiemerie.github.io/Porfolio/)
+
+- 💬 Ask me about **Flutter**
+
+- 📫 How to reach me **victorchiemerie02@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1bNQqsQeUVVOVHC8yAVwY5ciUhs8rX-VyEHNP00QRUT8/edit](https://docs.google.com/document/d/1bNQqsQeUVVOVHC8yAVwY5ciUhs8rX-VyEHNP00QRUT8/edit)
+
+- ⚡ Fun fact **Elephants are the only animals that can't jump**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/victorchiemer20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victorchiemer20" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/victornwadinigwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victornwadinigwe" height="30" width="40" /></a>
+<a href="https://fb.com/victor chiemerie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="victor chiemerie" height="30" width="40" /></a>
 </p>
 
-<hr>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=xrichardroidx&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="xrichardroidx" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=xrichardroidx&show_icons=true&theme=onedark&border_color=61dafb&hide_border=true&count_private=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrichardroidx&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&hide=html,css,scss&count_private=true&langs_count=8" />
-    </a>
-  </div>
-  <br>
-  <!--To do deploy this on my heroku account myself-->
-  <img src="https://activity-graph.herokuapp.com/graph?username=xrichardroidx&theme=github-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-<hr>
-<div align=center>
-    <img align="left" style="width:100%" src="images/matrix.gif" alt="stats.LOL" />
-</div>
-<hr/>
-<br/><br/><br/><br/><br/><br/><br/><br/>
-<h2>Listening on spotify🎧 🎼〽️😚〽️🎼</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31srdykzycmwthgr4b6hrmde756a&redirect=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-chiemerie&show_icons=true&locale=en&layout=compact" alt="victor-chiemerie" /></p>
 
-[//]: Temporary-dummy-until-main-is-back-offline
-[//]:[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31rdd3ktyspdhzafmurp5g2kzt6y)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victor-chiemerie&show_icons=true&locale=en" alt="victor-chiemerie" /></p>
 
-
-<!--
-**Victor-chiemerie/Victor-chiemerie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-chiemerie&" alt="victor-chiemerie" /></p>
