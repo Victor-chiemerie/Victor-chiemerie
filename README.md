@@ -10,19 +10,19 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/Victor-chiemerie/Bobby-Portfolio)
 
-- 🌱 I’m currently learning **Bloc State Management in Flutter**
+- 🌱 I’m currently learning **PostgreSQL for Flutter**
 
 - 👯 I’m looking to collaborate on [FECA fellowship App](https://github.com/Victor-chiemerie/feca)
 
 - 🤝 I’m looking for help with [Flutter Chat App](https://github.com/Victor-chiemerie/newChat)
 
-- 👨‍💻 All of my projects are available at [https://victor-chiemerie.github.io/Porfolio/](https://victor-chiemerie.github.io/Porfolio/)
+- 👨‍💻 All of my projects are available on [My Portfolio](https://victor-chiemerie.github.io/Portfolio/)
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **victorchiemerie02@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1bNQqsQeUVVOVHC8yAVwY5ciUhs8rX-VyEHNP00QRUT8/edit](https://docs.google.com/document/d/1bNQqsQeUVVOVHC8yAVwY5ciUhs8rX-VyEHNP00QRUT8/edit)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18RnKJLhKgWp-8TkNJin6ho_8SzdTZz33/view?usp=sharing)
 
 - ⚡ Fun fact **Elephants are the only animals that can't jump**
 
